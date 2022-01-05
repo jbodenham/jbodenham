@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jbodenham
-- 👀 I’m interested in Electronics and programming
+- 👀 I’m interested in electronics and programming
 - 🌱 I’m currently learning Electrical and Electronic Engineering MEng
 
 
